@@ -1,5 +1,4 @@
 # Global-Financial-Guardian
-Global Financial Guardian
 
 Overview
 
@@ -29,20 +28,22 @@ Authentication: JWT-based authentication
 
 Hosting: GitHub, Cloud (to be decided)
 
-Installation
+## Installation
 
-Clone the repository:
-
+### Clone the repository:
+```sh
 git clone https://github.com/your-username/Global-Financial-Guardian.git
+```
 
 Navigate to the backend folder:
 
+```sh
 cd backend
-
+```
 Install dependencies:
-
+```sh
 npm install
-
+```
 Set up MongoDB Atlas:
 
 Create a MongoDB cluster on MongoDB Atlas
@@ -50,14 +51,14 @@ Create a MongoDB cluster on MongoDB Atlas
 Whitelist your IP address
 
 Get the connection string and update .env
-
+```sh
 MONGO_URI=your-mongodb-connection-string
 JWT_SECRET=your-secret-key
-
+```
 Start the server:
-
+```sh
 npm start
-
+```
 API Endpoints
 
 User Routes
