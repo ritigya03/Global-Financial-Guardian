@@ -6,27 +6,27 @@ Global Financial Guardian is an AI-powered financial management platform that si
 
 Features
 
-AI-Powered Tax Automation: Automatically calculates taxes and deductions based on global tax rules.
+- AI-Powered Tax Automation: Automatically calculates taxes and deductions based on global tax rules.
 
-Personalized Financial Insights: Provides tailored investment suggestions to minimize risks and maximize returns.
+- Personalized Financial Insights: Provides tailored investment suggestions to minimize risks and maximize returns.
 
-Fraud Detection: Identifies potential financial risks and prevents fraud.
+- Fraud Detection: Identifies potential financial risks and prevents fraud.
 
-GST & Compliance Assistance: Simplifies tax filing for businesses with automated GST calculations.
+- GST & Compliance Assistance: Simplifies tax filing for businesses with automated GST calculations.
 
-User-Friendly Dashboard: Intuitive UI for managing finances easily.
+- User-Friendly Dashboard: Intuitive UI for managing finances easily.
 
 Tech Stack
 
-Backend: Node.js, Express.js
+- Backend: Node.js, Express.js
 
-Database: MongoDB (Atlas + Compass)
+- Database: MongoDB (Atlas + Compass)
 
-Frontend: React.js (to be implemented later)
+- Frontend: React.js (to be implemented later)
 
-Authentication: JWT-based authentication
+- Authentication: JWT-based authentication
 
-Hosting: GitHub, Cloud (to be decided)
+- Hosting: GitHub, Cloud (to be decided)
 
 ## Installation
 
@@ -75,13 +75,13 @@ Add a user: POST /api/users/add
 
 Future Enhancements
 
-Implement AI-driven investment predictions.
+- Implement AI-driven investment predictions.
 
-Add multi-country tax rule support.
+- Add multi-country tax rule support.
 
-Develop a mobile application.
+- Develop a mobile application.
 
-Improve fraud detection algorithms.
+- Improve fraud detection algorithms.
 
 
 
